@@ -23,7 +23,7 @@ A **real-time stock trading engine** that simulates Buy and Sell orders, efficie
 git clone https://github.com/yourusername/your-repo.git
 ```
 ```sh
-cd your-repo
+cd Onymos-Inc-Assignment
 ```
 2. Run the simulation
 ```py
