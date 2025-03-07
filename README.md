@@ -30,12 +30,9 @@ cd your-repo
 python main.py
 ```
 Example Output
-
+```txt
 Added order: Order(Buy, T45, Q:10, P:500.0)
 Added order: Order(Sell, T45, Q:5, P:495.0)
 Matching: Order(Buy, T45, Q:10, P:500.0) with Order(Sell, T45, Q:5, P:495.0) for Q:5
-Contributing
+```
 
-Feel free to fork this repository and improve the project!
-
-📧 Contact: [Your Name] - [Your Email]
