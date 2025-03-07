@@ -9,9 +9,6 @@ A **real-time stock trading engine** that simulates Buy and Sell orders, efficie
 - ✅ **Randomized simulation** of Buy/Sell orders  
 - ✅ Clean, modular structure for **scalability and maintenance**  
 
-## **Project Structure**  
-stock_trading/ │── main.py # Entry point to run the simulation │── order.py # Order class definition │── order_book.py # OrderBook class definition │── order_matcher.py # Order matching logic │── order_simulator.py # Simulation functions
-
 
 ## **How It Works**  
 1. **Orders are added randomly** (`Buy` or `Sell`).  
@@ -24,9 +21,14 @@ stock_trading/ │── main.py # Entry point to run the simulation │── o
 ### **1. Clone the repository**  
 ```sh
 git clone https://github.com/yourusername/your-repo.git
+```
+```sh
 cd your-repo
+```
 2. Run the simulation
+```py
 python main.py
+```
 Example Output
 
 Added order: Order(Buy, T45, Q:10, P:500.0)
