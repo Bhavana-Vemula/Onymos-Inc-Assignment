@@ -20,7 +20,7 @@ A **real-time stock trading engine** that simulates Buy and Sell orders, efficie
 ## **Installation & Running**  
 ### **1. Clone the repository**  
 ```sh
-git clone https://github.com/yourusername/your-repo.git
+git clone git@github.com:Bhavana-Vemula/Onymos-Inc-Assignment.git
 ```
 ```sh
 cd Onymos-Inc-Assignment
